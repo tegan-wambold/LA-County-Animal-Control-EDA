@@ -10,18 +10,15 @@ This project analyzes animal intake and outcome data from hte LA County Animal C
  
 ### Data
 The dataset used in this project is publicly available but too large for GitHub upload.  
-You can download it from [this link](https://data.lacounty.gov/datasets/a02dbb13c2374a8985a471ee35d5923f_0/explore) and place it in the `data/` folder:
-   LA-County-Animal-Control_EDA/
-   ├── Data/
-   │ └── animal_shelter.csv # <- Place downloaded file here
+You can download it from [this link](https://data.lacounty.gov/datasets/a02dbb13c2374a8985a471ee35d5923f_0/explore).
 
 ### Project Structure
-├── Data/
-│ └── Animal_Care_Pawstats.csv # Raw dataset (not included due to file size constraints)
-├── Notebooks/
-│ └── Animal_Control_EDA.ipynb # Jupyter notebook with full analysis
-├── README.md # Project documentation
-└── requirements.txt # List of dependencies
+* Data/
+  -Animal_Care_Pawstats.csv # Raw dataset (not included due to file size constraints)
+* Notebooks/
+  -Animal_Control_EDA.ipynb # Jupyter notebook with full analysis
+* README.md # Project documentation
+* requirements.txt # List of dependencies
 
 ## Features & Methods
 
